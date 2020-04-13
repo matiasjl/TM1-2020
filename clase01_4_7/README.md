@@ -3,11 +3,11 @@ Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2020.
 > CLASE 01: Bienvenida e introducción a Processing
 
 Temas:
-- ¿Que es la programación?
+- ¿Qué es la programación?
 - ¿Porqué programar en Multimedia?
 - Processing: un lenguaje al alcance de todos
 - - presentación programa, interfaz, sintaxis;
-- - coordenadas cartesiadas, origen (0, 0);
+- - coordenadas cartesianas, origen (0, 0);
 - - funciones de dibujo básicas: size, ellipse, line, rect.
 
 Tareas:
