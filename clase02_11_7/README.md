@@ -2,6 +2,8 @@ Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2020.
 
 > CLASE 02: Manejo de color por código
 
+Desafío: colorear el muñeco de nieve.
+
 Temas:
 - ¿Como expresar color mediante código?
 - Paletas de color RGB y HSB;
