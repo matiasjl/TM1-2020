@@ -13,6 +13,6 @@ Temas:
 Tareas:
 - Registrarse en el Aula Virtual: www.colaboratorio3.org
 - Leer la Unidad 2 del libro de Processing;
-- Descargar e instalar Processing;
+- Descargar e instalar Processing: https://processing.org/
 - Probar funciones de dibujo vistas;
 - Prepararse para el TP#1 D:
