@@ -9,7 +9,7 @@ Encontrarán una carpeta por cada clase semanal dictada. Al acceder, verán:
 
 > ¿Donde encuentro material teórico sobre los temas vistos?
 
-Los mismos se encuentran publicados en en curso correspondiente en www.colaboratorio3.org, principalmente bajo la pestaña "Programación con Processing".
+Los mismos se encuentran publicados en el curso correspondiente en www.colaboratorio3.org, principalmente bajo la pestaña "Programación con Processing".
 
 > ¿Que sucede si no puedo acceder a las clases por videoconferencia?
 
