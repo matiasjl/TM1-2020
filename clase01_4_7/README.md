@@ -7,12 +7,12 @@ Temas:
 - ¿Porqué programar en Multimedia?
 - Processing: un lenguaje al alcance de todos
 - - presentación programa, interfaz, sintaxis;
-- - coordenadas cartesianas, origen (0, 0);
-- - funciones de dibujo básicas: size, ellipse, line, rect.
+- - coordenadas cartesianas, origen (0, 0), función size;
+- - funciones primitivas de dibujo: ellipse, line, rect.
 
 Tareas:
 - Registrarse en el Aula Virtual: www.colaboratorio3.org
 - Leer la Unidad 2 del libro de Processing;
 - Descargar e instalar Processing: https://processing.org/
 - Probar funciones de dibujo vistas;
-- Prepararse para el TP#1 D:
+- Prepararse para el TP#1.
