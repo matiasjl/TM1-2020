@@ -10,5 +10,3 @@ Temas:
 Tareas:
 - Tomar ejemplo "muñeco de nieve" y personalizarlo;
 - Investigar sobre el concepto de "circulo cromático";
-
-PRÓXIMA CLASE LARGAMOS TRABAJO PRÁCTICO #1
