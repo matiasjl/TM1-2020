@@ -5,8 +5,8 @@ Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2020.
 Temas:
 - ¿Como expresar color mediante código?
 - Paletas de color RGB (HSB pendiente);
-- Atributos de funciones primitivas de dibujo.
-- - (ver en ejemplo 02b)
+- Ajustes de color en funciones primitivas de dibujo:
+- - background(), fill(), noFill(), stroke(), noStroke();
 
 Tareas:
 - Empezar actividades propuestas en "#01 Dibujando con código"
