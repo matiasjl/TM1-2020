@@ -10,4 +10,4 @@ Temas:
 Tareas:
 - Seguir actividades propuestas en "#01 Dibujando con código";
 - Compartir creaciones y dudas en el Foro de Processing;
-- TRABAJO PRÁCTICO #1: Circulo cromático.
+- TRABAJO PRÁCTICO #1: Circulo cromático > ENTREGA 30/4
