@@ -4,11 +4,11 @@ Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2020.
 
 Temas:
 - concepto de animación: modulación de valores en el tiempo;
-- variables: tipos + declaración / asignación / utilización;
-- - variables del programa: frameCount, mouseX, mouseY;
+- VARIABLES: tipos (int, float, String, PFont) + declaración / asignación / utilización;
+- - variables del lenguaje: width, height, frameCount, mouseX, mouseY;
 - - material teórico de apoyo: Unidad 3 Libro Processing
-- uso de textos: funciones text(), textSize(), textAlign();
-- nuevas funciones frameRate(), println(), random().
+- uso de textos: text(), textSize(), textAlign(), textFont();
+- nuevas funciones: frameRate(), println(), random().
 
 
 Tareas:
