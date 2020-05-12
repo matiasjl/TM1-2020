@@ -7,7 +7,7 @@ Temas:
 - uso de imágenes: funciones PImage(), loadImage(), image();
 - desarrollo animación de intro de "Los Simpsons"
 - consultas y dudas del segundo módulo;
-- BONUS: artista visual con Processing: Biopus.
+- BONUS: artista visual con Processing: [Biopus](http://www.estudiobiopus.com.ar)
 
 
 Tareas:
