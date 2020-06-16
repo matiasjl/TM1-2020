@@ -12,4 +12,5 @@ Temas:
 
 Tareas:
 - comenzar a definir historia para TP3: Aventura Gráfica;
-- - atentos a consigna, se publica ESTA SEMANA;
+- - [abro hilo en foro para compartir ideas]();
+- - atentos a consigna, se publica ESTA SEMANA.
