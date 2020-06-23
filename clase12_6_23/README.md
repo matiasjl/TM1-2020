@@ -1,6 +1,6 @@
 Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2020.
 
-> CLASE 12: Módulo 4 - Estructuras repetitivas (parte2)
+> CLASE 12: Módulo 4 - Estructuras repetitivas (2)
 
 Temas:
 
