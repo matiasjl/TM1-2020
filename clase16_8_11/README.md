@@ -10,7 +10,6 @@ Temas:
 - Ejercicios en clase;
 - - producciones de compañeres [aquí](https://github.com/matiasjl/TM1-2020/tree/master/clase16_8_11/ej_estudiantes).
 
-
 Tareas:
 - Terminar el ejercicio 2 ([consigna y ejemplo](https://github.com/matiasjl/TM1-2020/tree/master/clase16_8_11/ej15b_array_colores));
-- Leer Unidad 29 del la biblia de Processing;
+- Leer Unidad 29 de la biblia de Processing.
