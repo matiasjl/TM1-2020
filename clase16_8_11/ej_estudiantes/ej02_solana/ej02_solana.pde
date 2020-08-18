@@ -4,7 +4,7 @@
 
 // Solana
 
-color[] paleta = {color(random(255), 0, 0), color(0, random(255), 0), color(0, 0, random(255))};
+color[] paleta = {color(random(255), 0, 0), color(0, random(255), 0), color(0, 0, random(255))};  // crear + asignar
 int cant = 3;
 float tam = 900/3;
 
