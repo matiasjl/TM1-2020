@@ -11,6 +11,7 @@ Temas:
 - Repasando arreglos para TP4
 - - [trabajo colaborativo en clase](https://board.net/p/tmm1tp4ideas);
 - - ejercicios de arreglos con [textos](https://github.com/matiasjl/TM1-2020/tree/master/clase19_9_1/clase19b_textos_con_arreglos_for) e [imágenes](https://github.com/matiasjl/TM1-2020/tree/master/clase19_9_1/clase19e_imagenes_con_arreglos).
+- - [grabación de clase aquí](https://drive.google.com/file/d/1eHUgmxXGhho3Bn9ThV_FV-eKoJ5fSCl7/view?usp=sharing)
 
 Tareas:
 - Repasar arreglos, damos por cerrado el tema!
