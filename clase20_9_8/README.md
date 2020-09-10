@@ -5,14 +5,13 @@ Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2020.
 Temas:
 
 - Presentación de tema nuevo: Funciones:
-- - funciones de Processing que ya conocíamos;
 - - cómo crear nuestras propias funciones;
 - - concepto de REUTILIZACIÓN (clave);
 - - [aquí](https://docs.google.com/presentation/d/1-6lqBAVZji4Wv9-FosZS7yhF8CU2XxJJtCUTq4K4UQc/edit?usp=sharing) pueden acceder al powerpoint;
 - Funciones de dibujo (tipo void: no devuelve valor);
 - Funciones matemáticas sencillas (return: devuelve valor);
 - Actividad en clase: ¿Donde aplicarían funciones en sus aventuras gráficas?
-- -[respuestas y aportes de compañeres.](https://board.net/p/tmm1tp4ideas)
+- - [respuestas y aportes de compañeres.](https://board.net/p/tmm1tp4ideas)
 
 
 Tareas:
