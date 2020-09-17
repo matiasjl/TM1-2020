@@ -14,4 +14,4 @@ Temas:
 
 Tareas:
 - [DESAFÍO #5](http://www.colaboratorio3.org/mod/forum/discuss.php?d=325): realizar una función de dibujo compleja;
-- [Entrega de TP4](http://www.colaboratorio3.org/mod/assign/view.php?id=169) hasta el jueves 17!
+- [Entrega de TP4](http://www.colaboratorio3.org/mod/assign/view.php?id=169) hasta el jueves 17/9 inclusive!
