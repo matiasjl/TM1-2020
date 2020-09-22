@@ -1,6 +1,6 @@
 Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2020.
 
-> CLASE 20: Funciones con return
+> CLASE 21: Funciones con return
 
 Temas:
 
