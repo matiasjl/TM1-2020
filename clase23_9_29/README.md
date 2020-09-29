@@ -15,5 +15,5 @@ Temas:
 - - - [ejemplo23d](https://github.com/matiasjl/TM1-2020/tree/master/clase23_9_29/clase23d_pelota_objeto_arreglo_lineas): conexión entre objetos (arreglo de objetos como parámetro);
 
 Tareas:
-- [DESAFÍO #7](https://drive.google.com/drive/folders/17cT8CVwN-4Xc5QAZ5JGyS44W5lEvUzTA?usp=sharing): hasta el domingo 4/10 inclusive;
+- [DESAFÍO #7](http://www.colaboratorio3.org/mod/forum/discuss.php?d=367): hasta el domingo 4/10 inclusive;
 - Leer Unidad 39 - Estructura: Objetos
