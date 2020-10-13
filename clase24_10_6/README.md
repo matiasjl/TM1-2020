@@ -1,6 +1,6 @@
 Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2020.
 
-> CLASE 23: Arreglo de Objetos
+> CLASE 24: Conexiones entre Objetos
 
 Temas:
 
