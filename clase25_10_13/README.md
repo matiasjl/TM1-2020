@@ -9,10 +9,10 @@ Temas:
 - - falta pensar en colisiones: punto clave del TP5;
 - HOY: PULIENDO EL MINIJUEGO!
 - - avance en la programación del (mini) videojuego "NEVADA".
-- - [grabación](https://drive.google.com/file/d/19Tvo_x81zCtVjnBrBlKzo78jZnxF7jNw/view?usp=sharing) de la clase particionada:
-- - - colisiones: debuggear con primitivas y println();
-- - - sonido: utilización de librería Sound;
-- - - teclas: char como parámetro, límite bordes pantalla.
+- - grabación de la clase particionada:
+- - - [colisiones](https://drive.google.com/file/d/1azE-dB_K-91NrKn6EMbMkeTTEt-C8umk/view?usp=sharing): debuggear con primitivas y println();
+- - - [sonido](https://drive.google.com/file/d/1E2BYbAb_LM6EjLNvjOAziZwo9P1_b4wD/view?usp=sharing): utilización de librería Sound;
+- - - [teclas](https://drive.google.com/file/d/1jPLAQ_ylpIrK9SJkGcF37UZu9t0SVezA/view?usp=sharing): char como parámetro, límite bordes pantalla.
 
 Tareas:
 - Avanzar en el desarrollo del TP#5: videojuego con objetos;
